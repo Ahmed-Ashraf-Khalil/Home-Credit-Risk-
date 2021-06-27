@@ -69,3 +69,8 @@ One row is equivalent to one payment of one installment OR one installment corre
 * This file contains descriptions for the columns in the various data files.
 
 ![Annotation 2021-06-27 024230](https://user-images.githubusercontent.com/59618586/123530740-296d5380-d6fe-11eb-855f-e41f45be358b.png)
+
+# files :
+* Home credit risk.ipynb -> jupyter notebook of the whole project procedure
+* finalized_model.sav -> model training you can load any time using pickle
+* Project Presentation.pdf -> presentation of the whole procedure and the steps
